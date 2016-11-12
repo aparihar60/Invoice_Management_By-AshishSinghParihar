@@ -29,7 +29,7 @@ import com.impetus.invc_mgmt.service.ClientService;
  * proper response as per the request related to client.
  */
 @Controller
-public class ClientController {
+public class ClientController 
 
 	/** The logger. */
 	private static Logger logger = Logger.getLogger(LoginController.class);
