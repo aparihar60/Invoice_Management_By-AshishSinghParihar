@@ -64,7 +64,7 @@ public class ClientController {
 			List<Client> clientlist = clientService.getAllClients(tenantid);
 
 			model.addAttribute(CLIENTLIST, clientlist);
-			logger.info("showing client list");
+			logger.info("showing all client list");
 			return "showclient";
 		} catch (Exception e) {
 			throw new GenericException(ERROR);
