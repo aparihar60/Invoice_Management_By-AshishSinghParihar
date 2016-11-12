@@ -1,0 +1,8 @@
+com.impetus.invc_mgmt.bean
+com.impetus.invc_mgmt.controller
+com.impetus.invc_mgmt.dao
+com.impetus.invc_mgmt.dao.impl
+com.impetus.invc_mgmt.model
+com.impetus.invc_mgmt.service
+com.impetus.invc_mgmt.service.impl
+com.impetus.invc_mgmt.util
